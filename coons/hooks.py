@@ -21,19 +21,19 @@ doctype_js = {
 
 
 website_context = {
-	"favicon": 	"/assets/bdtheme/images/bp-ico-32.png",
-	"splash_image": "/assets/bdtheme/images/logo_bdoop.png"
+	"favicon": 	"/assets/coons/images/coons-ico-32.png",
+	"splash_image": "/assets/coons/images/logo_coons.png"
 }
 
 # Includes in <head>
 # ------------------
 
 # include js, css files in header of desk.html
-# app_include_css = "/assets/coons/css/coons.css"
+app_include_css = "/assets/coons/css/custom.css"
 # app_include_js = "/assets/coons/js/coons.js"
 
 # include js, css files in header of web template
-# web_include_css = "/assets/coons/css/coons.css"
+#web_include_css = "/assets/coons/css/custom.css"
 # web_include_js = "/assets/coons/js/coons.js"
 
 # include js in page

@@ -1,0 +1,12 @@
+#page-desktop{ background-color:#FFFFFF !important}
+.main-header .logo .logo-lg{
+    background: #367fa9 url(/assets/coons/images/logo_coons.png) center no-repeat; 
+    background-size: auto 48px;
+    text-indent:-99em;
+}
+.main-header .logo .logo-mini{
+    background: #367fa9 url(/assets/coons/images/coons-ico-32.png) center no-repeat; 
+    background-size: auto 38px;
+    text-indent:-99em;
+} 
+
